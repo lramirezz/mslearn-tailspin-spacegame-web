@@ -1,0 +1,7 @@
+organization=space-game-web-1027
+projectKey=space-game-web-ok
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8469
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-ok
+ceTaskId=AXKCFS67NJCBaANHeIQw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKCFS67NJCBaANHeIQw
